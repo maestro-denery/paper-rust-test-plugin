@@ -1,0 +1,6 @@
+name: RustPlugin
+version: ${version}
+main: io.denery.rustplugin.RustPlugin
+api-version: 1.18
+authors:
+  - Denery

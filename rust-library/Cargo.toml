@@ -1,0 +1,11 @@
+[package]
+name = "rust-plugin"
+version = "0.1.0"
+edition = "2021"
+authors = ["Denery"]
+
+[lib]
+crate_type = ["cdylib"]
+
+[dependencies]
+jni = "0.19.0"
